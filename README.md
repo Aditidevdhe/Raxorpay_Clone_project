@@ -8,8 +8,6 @@ PayFlow is a **responsive Razorpay clone** built using **HTML**, **CSS**, and **
 
 🔗 [Live Site](https://razorpaycloneprojj.netlify.app/)
 
-> Replace the above link with your deployed project URL (e.g., Vercel, Netlify, GitHub Pages)
-
 ---
 
 ## 📸 Screenshots
