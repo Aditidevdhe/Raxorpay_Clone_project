@@ -1,4 +1,4 @@
-# Raxorpay_Clone_project# 💸 PayFlow – Razorpay Clone
+# 💸 PayFlow – Razorpay Clone
 
 PayFlow is a **responsive Razorpay clone** built using **HTML**, **CSS**, and **Tailwind CSS**. It mimics the core UI and layout of the Razorpay homepage to practice frontend development, Tailwind utility-first design, and responsive web techniques.
 
